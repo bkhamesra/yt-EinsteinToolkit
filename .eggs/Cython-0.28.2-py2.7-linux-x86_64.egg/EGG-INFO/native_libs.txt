@@ -1,0 +1,13 @@
+Cython/StringIOTree.so
+Cython/Compiler/Scanning.so
+Cython/Compiler/Code.so
+Cython/Compiler/Lexicon.so
+Cython/Compiler/FusedNode.so
+Cython/Compiler/Parsing.so
+Cython/Compiler/Visitor.so
+Cython/Compiler/Pythran.so
+Cython/Compiler/FlowControl.so
+Cython/Tempita/_tempita.so
+Cython/Runtime/refnanny.so
+Cython/Plex/Actions.so
+Cython/Plex/Scanners.so

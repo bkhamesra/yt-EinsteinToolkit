@@ -1,0 +1,6 @@
+matplotlib
+setuptools>=19.6
+sympy
+numpy
+IPython
+cython
